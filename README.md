@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jonathan</h1>
 <h3 align="center">A passionate software developer from New Zealand :new_zealand: </h3>
 
-- 🔭 I’m currently working on [COVID19 stats](https://rabadunk.github.io/COVID19/)
+- 🔭 My current personal project is a [COVID19 stats](https://rabadunk.github.io/COVID19/) website for New Zealand.
 
 
 [![Covid](https://c19-widget.vercel.app/)](https://rabadunk.github.io/COVID19/)
