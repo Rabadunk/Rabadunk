@@ -16,4 +16,3 @@
   
 </table>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rabadunk" alt="rabadunk" /> </p>
