@@ -16,6 +16,4 @@
   
 </table>
 
-<img src="https://spotify.rabadunk.vercel.app/api/spotify-playing"/>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rabadunk" alt="rabadunk" /> </p>
