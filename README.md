@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jonathan</h1>
-<h3 align="center">A passionate software developer from New Zealand :new_zealand: </h3>
+<h3 align="center">A software developer from New Zealand :new_zealand: </h3>
 
 <table width=100%>
   <tr>
