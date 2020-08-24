@@ -4,10 +4,12 @@
 <table width=100%>
   <tr>
     <td width=50%>
-      <p> 🔭 My current personal project is a [COVID19 stats](https://rabadunk.github.io/COVID19/) website for New Zealand. You can see some stats over here --></p>
+      <p> 🔭 My current personal project is a Covid19 stats website for New Zealand. You can see some stats over here --></p>
     </td> 
     <td width=50%>
-      <img src="https://c19-widget.vercel.app/"/>
+      <a href="https://rabadunk.github.io/COVID19/">
+      <img src="https://c19-widget.vercel.app/" link/>
+      </a>
     </td>   
   </tr>
   
