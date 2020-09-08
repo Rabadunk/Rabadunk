@@ -18,8 +18,7 @@
     <td>
     <img src="https://spotify-silk.vercel.app/api/spotify-playing" />
     </td>
-    <td>
-     
+    <td>    
     </td>
   </tr>
   
