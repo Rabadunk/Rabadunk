@@ -14,13 +14,5 @@
     </td>   
   </tr>
   
-  <tr>
-    <td>
-    <img src="https://spotify-silk.vercel.app/api/spotify-playing" />
-    </td>
-    <td>    
-    </td>
-  </tr>
-  
 </table>
 
