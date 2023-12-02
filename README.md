@@ -1,5 +1,5 @@
 
-<h1 align="center">Howdy 🤠 </h1>
+<h1>Howdy 🤠 </h1>
 
 <td>
   <tr>
