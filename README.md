@@ -6,7 +6,7 @@
   <tr><h3>Past projects: </h3></tr>
   <tr>
     <td width=50%>
-      <p> A previous project I worked on is a Covid19 stats website for New Zealand. You can view the website by clicking the graph to the right.</p>
+      <p>Once upon a time, I whipped up this cool website that kept tabs on all the COVID-19 stats in New Zealand. Built with React to make things snazzy, Firebase to handle data like a pro, and Chart.js for some eye-catching charts. I even cooked up the data myself to make sure it was fresh and accurate. The goal was to give folks an easy way to stay in the loop about what was happening in New Zealand during the pandemic. It was a fun project, kind of like a digital hub to keep everyone in the know!</p>
     </td> 
     <td width=50%>
       <a href="https://rabadunk.github.io/COVID19/">
