@@ -1,10 +1,11 @@
 <h1 align="center">Howdy 🤠</h1>
 <h3 align="center">I'm Jonathan, a software developer from New Zealand :new_zealand: </h3>
 
+
 <table width=100%>
+  <tr><h3>Past projects: </h3></tr>
   <tr>
     <td width=50%>
-      <h3>Past projects: </h3>
       <p> A previous project I worked on is a Covid19 stats website for New Zealand. You can view the website by clicking the graph to the right.</p>
     </td> 
     <td width=50%>
