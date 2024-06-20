@@ -4,7 +4,7 @@
 <td>
   <tr>
     
-  <p>I'm Jonathan — just your friendly neigbourhood software developer. I've been diving into code for 8 years and along the way, I've had a blast developing and creating different projects and tools. When I'm not in work mode, you'll find me running (you can see my strava stats below), snowboarding or reading a book. Right now, I'm jazzed about React Native, and I'm starting to use it to develop mobile apps for ios and android. Let's connect and swap stories! 🚀</p>
+  <p>I'm Jonathan — just your friendly neigbourhood software developer and I've had a blast developing and creating different projects and tools. When I'm not in work mode, you'll find me running (you can see my strava stats below), snowboarding or reading a book. Right now, I'm jazzed about React Native, and I'm starting to use it to develop mobile apps for ios and android. Let's connect and swap stories! 🚀</p>
 
   <img src="https://strava-widget.vercel.app" width="100%"/>
 
